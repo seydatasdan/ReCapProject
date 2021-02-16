@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vV1bdi9Cx9PYOg9zUHfI53GM7M5SSMQYv7SjiCQ6pPYSC8TKShHKsbJt2320nLUmd7v/iCjep/XFX/JMOFwAww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\seyda\\source\\repos\\ReCapProject\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\seyda\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\seyda\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
